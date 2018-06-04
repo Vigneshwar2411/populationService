@@ -1,0 +1,8 @@
+{
+	"app": {
+		"port": 3000,
+		"gcInterval": 3600000
+	},
+	"apiURL": "http://api.population.io:80/1.0/population/",
+	"serviceName": "populationService"
+}
